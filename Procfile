@@ -1,1 +1,1 @@
-web: project_1_api.wsgi --log-file -
+web: django_test_render.wsgi --log-file -
